@@ -1,0 +1,68 @@
+inherited TabbedForm_iPhone47in: TTabbedForm_iPhone47in
+  ClientHeight = 647
+  ClientWidth = 375
+  DesignerMasterStyle = 2
+  inherited HeaderToolBar: TToolBar
+    Size.Width = 375.000000000000000000
+    inherited ToolBarLabel: TLabel
+      Size.Width = 375.000000000000000000
+    end
+  end
+  inherited TabControl1: TTabControl
+    Size.Width = 375.000000000000000000
+    Size.Height = 603.000000000000000000
+    Sizes = (
+      375s
+      554s
+      375s
+      554s
+      375s
+      554s
+      375s
+      554s)
+    inherited TabItem1: TTabItem
+      Size.Width = 93.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited GridPanelLayout1: TGridPanelLayout
+        Size.Width = 375.000000000000000000
+        Size.Height = 554.000000000000000000
+        inherited ComboBox1: TComboBox
+          Margins.Left = 5.000000000000000000
+          Margins.Right = 5.000000000000000000
+          Position.X = 11.875000000000000000
+          Position.Y = 423.220886230468800000
+        end
+      end
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 93.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 93.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabItem4: TTabItem
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+  end
+  inherited GestureManager1: TGestureManager
+    Left = 320
+    Top = 16
+    GestureData = <
+      item
+        Control = Owner
+        Collection = <
+          item
+            GestureID = sgiLeft
+          end
+          item
+            GestureID = sgiRight
+          end>
+      end>
+  end
+end

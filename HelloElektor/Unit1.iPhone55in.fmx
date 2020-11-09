@@ -1,0 +1,10 @@
+inherited Form1_iPhone55in: TForm1_iPhone55in
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 3
+  inherited Label1: TLabel
+    Size.Width = 185.000000000000000000
+    Size.Height = 21.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

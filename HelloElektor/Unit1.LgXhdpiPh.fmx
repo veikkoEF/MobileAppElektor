@@ -1,0 +1,10 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Label1: TLabel
+    Size.Width = 153.000000000000000000
+    Size.Height = 23.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

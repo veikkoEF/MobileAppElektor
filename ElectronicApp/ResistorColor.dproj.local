@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<PiOS iOSSimulator="_iossimulator_DB76B6DA-00C0-4BE4-AF7D-9AD002591D11"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2020/08/12 16:46:53.000.046,C:\dev\ElectronicApp\TabbedApplication.dproj=C:\dev\ElectronicApp\ResistorColor.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

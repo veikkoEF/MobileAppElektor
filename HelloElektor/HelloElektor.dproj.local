@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/10 13:52:56.000.284,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/10 14:21:21.000.123,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\dev\HelloElektor\Unit1.fmx</Transaction>
+    <Transaction>2020/08/10 14:21:21.000.123,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\dev\HelloElektor\Unit1.pas</Transaction>
+    <Transaction>2020/08/10 14:21:29.000.092,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\dev\HelloElektor\HelloElektor.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>  <PiOS iOSSimulator="_iossimulator_9A0297F2-BC7E-4E87-B1AF-CB633B1E928C"/>
+  </ActiveMobileDevice>
+</BorlandProject>
